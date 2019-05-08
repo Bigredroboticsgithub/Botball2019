@@ -64,6 +64,6 @@ int main()
 {
     //create_connect()
     follow_line(BLACK);
-    move_until_encounter(BLACK);
-    return 0;
+    move_until_encounter(BLACK); //black box line thing
+    return 1;
 }
